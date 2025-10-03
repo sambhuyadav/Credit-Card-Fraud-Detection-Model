@@ -3,10 +3,7 @@
 ## 1. Project Overview  
 This project focuses on detecting fraudulent credit card transactions. Fraud detection is a highly critical task in financial systems, where even a small number of fraudulent activities can cause significant financial losses.  
 
-# 📄 Credit Card Fraud Detection – Project Documentation  
-
-## 1. Project Overview  
-This project applies **machine learning techniques** to detect fraudulent credit card transactions. The dataset is highly imbalanced, containing **492 frauds out of 284,807 transactions** (~0.172%). The goal is to build a balanced dataset, train classification models, and evaluate their performance with proper metrics.  
+This project applies **machine learning techniques** to detect fraudulent credit card transactions. The dataset used is highly imbalanced, containing **492 frauds out of 284,807 transactions** (~0.172%). The goal is to build a balanced dataset, train classification models, and evaluate their performance with proper metrics.  
 
 ---
 
